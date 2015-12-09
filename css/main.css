@@ -1,0 +1,15 @@
+/* Каталог продуктов */
+
+
+
+/* Полезное */
+
+.x {
+  outline: 1px solid red;
+}
+
+@media print {
+  .btn {
+    display: none;
+  }
+}
